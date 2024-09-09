@@ -1,4 +1,5 @@
 LINEAR SEARCH 
+
 PROGRAM TO SHOW LINEAR SEARCH ALGORITHM IMPLEMENTATION
 
 Array size and inputs are obtained from the user.The algorithm searches for an element in 0(n).
